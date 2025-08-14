@@ -17,7 +17,7 @@ The analysis was done using **Tableau**, supported by **Python** for data cleani
 ## 📂 Project Files
 - `Dashboard.png` – Screenshot of the Tableau dashboard
 - `Project_Link.txt` – Direct link to the interactive dashboard
-- `data/` – Dataset used for analysis (if shareable)
+- `data/` – [Dataset used for analysis (if shareable)](https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset)
 
 ## 🔗 View Interactive Dashboard
 [Click here to view the Tableau dashboard](https://public.tableau.com/views/AirBnBFullProject_17551928015120/Dashboard1)
